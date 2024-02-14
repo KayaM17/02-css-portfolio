@@ -30,7 +30,8 @@ Youtube - Tutorials
 
 Licensed under the MIT License
 
-GitHub Repository URL: 
+GitHub Repository URL: https://github.com/KayaM17/02-css-portfolio
 
-Deployed Web Application URL: 
+Deployed Web Application URL: https://kayam17.github.io/02-css-portfolio/
+
 
